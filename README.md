@@ -1,6 +1,12 @@
 # Java Prettify #
 
-
+## Menu ##
+  * [Overview](https://github.com/cws1989/java-prettify/blob/wiki/Overview.md)
+  * [ThemesDemo](https://github.com/cws1989/java-prettify/blob/wiki/ThemesDemo.md)
+  * [ConfigurationsDemo](https://github.com/cws1989/java-prettify/blob/wiki/ConfigurationsDemo.md)
+  * [CreateNewLanguage](https://github.com/cws1989/java-prettify/blob/wiki/CreateNewLanguage.md)
+  * [CreateNewTheme](https://github.com/cws1989/java-prettify/blob/wiki/CreateNewTheme.md)
+  * [UseTheParserAlone](https://github.com/cws1989/java-prettify/blob/wiki/UseTheParserAlone.md)
 
 ## Overview ##
 This library is a java port of [Google Prettify](http://google-code-prettify.googlecode.com), the current version ported is 1-Jun-2011. The copyright holder of the
