@@ -47,7 +47,8 @@ Default, Desert, Sons of Obsidian, Sunburst
 [Click here for a demo.](https://github.com/cws1989/java-prettify/blob/wiki/ConfigurationsDemo.md)
 
 ## Example ##
-<b><font color='red'>Note that this highlighter extends Swing component, so all operations are better be executed inside <a href='http://en.wikipedia.org/wiki/Event_dispatching_thread'>Swing dispatching thread</a>.</font></b>
+> **Note that this highlighter extends Swing component, so all operations are better be executed inside [Swing dispatching thread](http://en.wikipedia.org/wiki/Event_dispatching_thread).**
+
 ```
 import java.io.*;
 import java.util.Arrays;
@@ -92,7 +93,7 @@ public class Example {
 ```
 
 ## Sample Screenshot ##
-![https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDesert.png](https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDesert.png)
+![ThemeDesert](https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDesert.png)
 
 ## Support & Discussion ##
 [Support & Discussion Group](http://groups.google.com/group/java-prettify)
