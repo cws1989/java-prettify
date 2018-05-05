@@ -1,6 +1,6 @@
 # Java Prettify #
 
-## Java Prettify is discontinued. ##
+> Java Prettify is discontinued.
 
 ## Menu ##
   * [ThemesDemo](https://github.com/cws1989/java-prettify/blob/wiki/ThemesDemo.md)
