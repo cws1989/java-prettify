@@ -16,9 +16,9 @@ Google Prettify is Mike Samuel (mikesamuel@gmail.com). It is licensed under the 
 Java SE 6 or up
 
 ## Language Supported ##
-The comments in [prettify.parser.Prettify](http://java-prettify.googlecode.com/svn/trunk/javadoc/prettify/parser/Prettify.html) are authoritative but the lexer should work on a number of languages including C and friends, Java, Python, Bash, SQL, HTML, XML, CSS, Javascript, Makefiles and Rust. It works passably on Ruby, PHP, VB, and Awk and a decent subset of Perl and Ruby, but, because of commenting conventions, doesn't work on Smalltalk, or CAML-like languages.
+The comments in [prettify.parser.Prettify](http://cws1989.github.io/java-prettify/prettify/parser/Prettify.html) are authoritative but the lexer should work on a number of languages including C and friends, Java, Python, Bash, SQL, HTML, XML, CSS, Javascript, Makefiles and Rust. It works passably on Ruby, PHP, VB, and Awk and a decent subset of Perl and Ruby, but, because of commenting conventions, doesn't work on Smalltalk, or CAML-like languages.
 
-LISPy languages are supported via an extension: [prettify.lang.LangLisp](http://java-prettify.googlecode.com/svn/trunk/javadoc/prettify/lang/LangLisp.html).
+LISPy languages are supported via an extension: [prettify.lang.LangLisp](http://cws1989.github.io/java-prettify/prettify/lang/LangLisp.html).
 
 And similarly for Clojure, CSS, Go, Haskell, Lua, OCAML, SML, F#, Matlab, Nemerle, Protocol Buffers, Scala, SQL, TeX, LaTeX, VHDL, Visual Basic, WikiText, XQuery, and YAML.
 
@@ -84,7 +84,7 @@ public class Example {
 ```
 
 ## Sample Screenshot ##
-![http://java-prettify.googlecode.com/svn/wiki/ThemesDemo/ThemeDesert.png](http://java-prettify.googlecode.com/svn/wiki/ThemesDemo/ThemeDesert.png)
+![https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDesert.png](https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDesert.png)
 
 ## Support & Discussion ##
 [Support & Discussion Group](http://groups.google.com/group/java-prettify)
