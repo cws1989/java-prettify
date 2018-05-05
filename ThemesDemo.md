@@ -3,13 +3,13 @@
 
 
 ## Default theme ##
-![https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeDefault.png](https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeDefault.png)<br />
+![https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDefault.png](https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDefault.png)<br />
 
 ## Desert theme ##
-![https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeDesert.png](https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeDesert.png)<br />
+![https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDesert.png](https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeDesert.png)<br />
 
 ## Sons of Obsidian theme ##
-![https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeSonsOfObsidian.png](https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeSonsOfObsidian.png)<br />
+![https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeSonsOfObsidian.png](https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeSonsOfObsidian.png)<br />
 
 ## Sunburst theme ##
-![https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeSunburst.png](https://github.com/cws1989/java-prettify/tree/wiki/ThemesDemo/ThemeSunburst.png)<br />
+![https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeSunburst.png](https://raw.githubusercontent.com/cws1989/java-prettify/wiki/ThemesDemo/ThemeSunburst.png)<br />
