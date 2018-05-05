@@ -49,7 +49,7 @@ Default, Desert, Sons of Obsidian, Sunburst
 ## Example ##
 > **Note that this highlighter extends Swing component, so all operations are better be executed inside [Swing dispatching thread](http://en.wikipedia.org/wiki/Event_dispatching_thread).**
 
-```
+```java
 import java.io.*;
 import java.util.Arrays;
 import java.util.logging.*;
