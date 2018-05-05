@@ -8,15 +8,15 @@
   * [UseTheParserAlone](https://github.com/cws1989/java-prettify/blob/wiki/UseTheParserAlone.md)
 
 ## Overview ##
-This library is a java port of [Google Prettify](http://google-code-prettify.googlecode.com), the current version ported is 1-Jun-2011. The copyright holder of the
+This library is a java port of [Google Prettify](https://github.com/google/code-prettify), the current version ported is 1-Jun-2011. The copyright holder of the
 Google Prettify is Mike Samuel (mikesamuel@gmail.com). It is licensed under the [Apache license Version 2](http://www.opensource.org/licenses/Apache-2.0). This port is written by Chan Wai Shing (cws1989@gmail.com) distributed under
 [Apache license Version 2](http://www.opensource.org/licenses/Apache-2.0).
 
-  * If you need an editor more than a highlighter, please find [jsyntaxpane](http://code.google.com/p/jsyntaxpane/).
-  * I port it for [Language Files Tool](http://code.google.com/p/language-files-tool/).
+  * If you need an editor more than a highlighter, please find [jsyntaxpane](https://github.com/nordfalk/jsyntaxpane).
+  * I port it for [Language Files Tool](https://github.com/cws1989/language-files-tool).
 
 ## Alternatives ##
-[Java SyntaxHighlighter](http://code.google.com/p/java-syntax-highlighter/)
+[Java SyntaxHighlighter](https://github.com/cws1989/java-syntax-highlighter/)
 
 ## Requirement ##
 Java SE 6 or up
@@ -28,9 +28,9 @@ LISPy languages are supported via an extension: [prettify.lang.LangLisp](http://
 
 And similarly for Clojure, CSS, Go, Haskell, Lua, OCAML, SML, F#, Nemerle, Protocol Buffers, Scala, SQL, TeX, LaTeX, VHDL, Visual Basic, WikiText, XQuery, and YAML.
 
-If you'd like to add an extension for your favorite language, please look at [prettify.lang.LangLisp](http://code.google.com/p/java-prettify/source/browse/trunk/src/prettify/lang/LangLisp.java) and file an [issue](http://code.google.com/p/google-code-prettify/issues/list) including your language extension, and a testcase.
+If you'd like to add an extension for your favorite language, please look at [prettify.lang.LangLisp](http://code.google.com/p/java-prettify/source/browse/trunk/src/prettify/lang/LangLisp.java) and file an [issue](https://github.com/google/code-prettify/issues) including your language extension, and a testcase.
 
-Adapted from: http://google-code-prettify.googlecode.com/svn/trunk/README.html
+Adapted from: https://github.com/google/code-prettify/blob/master/README.md
 
 ## Themes ##
 Default, Desert, Sons of Obsidian, Sunburst
@@ -98,4 +98,4 @@ public class Example {
 ## Known Issues ##
   * Perl formatting is really crappy. Partly because Perl is [hard](http://www.perlmonks.org/?node_id=663393) to parse.
 
-Adapted from: http://google-code-prettify.googlecode.com/svn/trunk/CHANGES.html
+Adapted from: https://github.com/google/code-prettify/blob/master/CHANGES.md
