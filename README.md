@@ -28,7 +28,7 @@ LISPy languages are supported via an extension: [prettify.lang.LangLisp](http://
 
 And similarly for Clojure, CSS, Go, Haskell, Lua, OCAML, SML, F#, Nemerle, Protocol Buffers, Scala, SQL, TeX, LaTeX, VHDL, Visual Basic, WikiText, XQuery, and YAML.
 
-If you'd like to add an extension for your favorite language, please look at [prettify.lang.LangLisp](http://code.google.com/p/java-prettify/source/browse/trunk/src/prettify/lang/LangLisp.java) and file an [issue](https://github.com/google/code-prettify/issues) including your language extension, and a testcase.
+If you'd like to add an extension for your favorite language, please look at [prettify.lang.LangLisp](https://github.com/cws1989/java-prettify/tree/master/src/prettify/lang/LangLisp.java) and file an [issue](https://github.com/google/code-prettify/issues) including your language extension, and a testcase.
 
 Adapted from: https://github.com/google/code-prettify/blob/master/README.md
 
