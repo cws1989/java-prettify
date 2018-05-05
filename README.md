@@ -1,6 +1,11 @@
 # Java Prettify #
 
-
+## Menu ##
+  * [ThemesDemo](https://github.com/cws1989/java-prettify/blob/wiki/ThemesDemo.md)
+  * [ConfigurationsDemo](https://github.com/cws1989/java-prettify/blob/wiki/ConfigurationsDemo.md)
+  * [CreateNewLanguage](https://github.com/cws1989/java-prettify/blob/wiki/CreateNewLanguage.md)
+  * [CreateNewTheme](https://github.com/cws1989/java-prettify/blob/wiki/CreateNewTheme.md)
+  * [UseTheParserAlone](https://github.com/cws1989/java-prettify/blob/wiki/UseTheParserAlone.md)
 
 ## Overview ##
 This library is a java port of [Google Prettify](http://google-code-prettify.googlecode.com), the current version ported is 1-Jun-2011. The copyright holder of the
@@ -30,14 +35,14 @@ Adapted from: http://google-code-prettify.googlecode.com/svn/trunk/README.html
 ## Themes ##
 Default, Desert, Sons of Obsidian, Sunburst
 
-[Click here to visit the gallery.](ThemesDemo.md)
+[Click here to visit the gallery.](https://github.com/cws1989/java-prettify/blob/wiki/ThemesDemo.md)
 
 ## Configurations ##
   * Allows you to change the first (starting) line number.
   * Allows you to turn gutter with line numbers on and off.
   * Allows you to highlight one or more lines to focus user's attention.
 
-[Click here for a demo.](ConfigurationsDemo.md)
+[Click here for a demo.](https://github.com/cws1989/java-prettify/blob/wiki/ConfigurationsDemo.md)
 
 ## Example ##
 <b><font color='red'>Note that this highlighter extends Swing component, so all operations are better be executed inside <a href='http://en.wikipedia.org/wiki/Event_dispatching_thread'>Swing dispatching thread</a>.</font></b>
